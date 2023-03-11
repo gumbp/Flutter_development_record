@@ -1,3 +1,4 @@
 # Flutter_development_record
 
-#补充上传以往flutter开发代码
+#补充上传以往flutter开发项目
+该项目作为生产实习项目，基于flutter开发物联网跨平台应用
